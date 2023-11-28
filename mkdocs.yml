@@ -1,0 +1,8 @@
+site_name: 
+site_description: Telehealth application to book online appointment
+
+nav:
+  - Introduction: README.md
+
+plugins:
+  - techdocs-core

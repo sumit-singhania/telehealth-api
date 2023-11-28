@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 
+  description: Telehealth application to book online appointment
+  annotations:
+    github.com/project-slug: https://github.com/sumit-singhania/
+    backstage.io/techdocs-ref: dir:../
+spec:
+  type: website
+  lifecycle: experimental
+  owner: https://github.com/sumit-singhania
