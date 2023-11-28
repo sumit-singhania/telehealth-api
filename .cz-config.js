@@ -25,11 +25,11 @@ module.exports = {
   ],
 
   scopes: [
-{name: 'scheduler-facade-facade'}, 
-{name: 'auth-facade-facade'}, 
-{name: 'video-conferencing-service-service'}, 
-{name: 'scheduler-service-service'}, 
-{name: 'auth-service-service'}, 
+{name: 'scheduler-facade'}, 
+{name: 'auth-facade'}, 
+{name: 'video-conferencing-service'}, 
+{name: 'scheduler-service'}, 
+{name: 'auth-service'}, 
     {name: 'ci-cd'},
     {name: 'deps'},
     {name: 'migrations'},
